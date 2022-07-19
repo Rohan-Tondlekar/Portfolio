@@ -132,8 +132,8 @@
     }
   
     div:nth-child(3) {
-      width: 70px;
-      height: 70px;
+      width: 100px;
+      height: 100px;
     }
   
     @media screen and (min-width: 2000px) {
@@ -175,7 +175,8 @@
     position: relative;
   
     img {
-      width: 100%;
+      width: 65%;
+      margin-right: 1rem;
       object-fit: contain;
       z-index: 1;
     }
