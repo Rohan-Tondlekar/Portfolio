@@ -65,7 +65,7 @@ export default {
   about04,
   profile,
   profile1,
-  ptofile2,
+  profile2,
   circle,
   logo,
   adidas,
